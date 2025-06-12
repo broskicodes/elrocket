@@ -15,12 +15,12 @@ All designs related to my rocket projects will live here. Everything from CAD fi
 
 The structure will likely evolve over time, but for now I'm thinking something like this:
 - Root directory (You are here)
-	- Rockets
+	- Rockets folder
 		- A list of rocket projects I've worked on
 		- Each entry will be a folder containing files for that particular project
-	- Satellites
+	- Satellites folder
 		- A intend to design and develop satellites at some point too
-        
+
 ## Contribution
 I am just one person, and I'd love for this to be a community effort.
 
