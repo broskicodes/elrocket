@@ -9,7 +9,12 @@ Once I've built and flown this think I'll add images/videos and a build guide to
 ## Objectives
 As my first rocket, the objectives are very simple: just fly!
 - Build a rocket that flies straight
-- Successfully delopy parachute and recover rocket
+- Successfully deploy parachute and recover rocket
 - Nothing explodes and no one gets hurt
 
 Should be easy enough right?
+
+## Questions
+- Can a fully 3D printed rocket fly?
+- What kind of apogee can I get from A-C class motors?
+- How impactful is fin shape really?
