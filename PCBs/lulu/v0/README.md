@@ -4,8 +4,15 @@ Lulu is a simple model rocket flight computer primarily designed to record and s
 This document discusses the design of the chip and the reasoning behind these decisions. Please refer to the [schematic](lulu_v0_schematic.pdf) for exact connections.
 
 ![PCB model](images/pcb_model.png)
-## Design
+# Design
 ## Hardware
+Lulu is designed as a 4 layer FR-4 PCB with 4 copper poors. 
+- Top layer net: Battery positive voltage
+- First internal net: Common ground plane
+- Second internal net: 3.3V supply
+- Bottom layer net: VBus from USB (5V)
+
+### Processor
 The flight computer is based on the [SAMD21G18](https://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D21_DA1_Family_DataSheet_DS40001882F.pdf) microcontroller (MCU). This chip was chosen for 2 primary reasons: Arduino compatibility and community support. I want this board to be easily used/reprogrammed and extended by many amateur rocketeers, so it was important to choose a processor with a large ecosystem around it.
 
 ![Lulu v0 schematic](images/lulu_v0_schematic.png)
