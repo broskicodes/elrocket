@@ -1,4 +1,6 @@
-# Introduction
+# Lulu (v1)
+
+## Introduction
 Lulu is a simple model rocket flight computer primarily designed to record and store flight data for analysis and testing. It also designed with the ability to deploy parachutes through pyrotechnic charges and has limited potential for implementing control systems through 3 broken out PWM pins.
 
 This document discusses the design of the chip and the reasoning behind these decisions. Please refer to the [schematic](lulu_v0_schematic.pdf) for exact connections.
