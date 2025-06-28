@@ -23669,10 +23669,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e58805ff-2927-4b30-a70d-035df59f8c1a")
 		(property "Reference" "R25"
-			(at 125.73 179.07 90)
+			(at 125.984 183.388 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23680,7 +23679,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 125.73 181.61 90)
+			(at 130.302 186.436 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23715,10 +23714,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "8615a7f6-4cbe-4a7b-877d-d9929f59909c")
+			(uuid "8615a7f6-4cbe-4a7b-877d-d9929f59909d")
 		)
 		(pin "2"
-			(uuid "ceba9b73-ee6c-4afa-8d6a-70b488f9a1d0")
+			(uuid "ceba9b73-ee6c-4afa-8d6a-70b488f9a1d1")
 		)
 		(instances
 			(project ""
