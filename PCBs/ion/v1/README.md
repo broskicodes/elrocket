@@ -6,7 +6,7 @@ Design files [here](design_files/).
 ![schematic](images/ion_v1_schematic.png)
 
 ## Design
-Most components and design choices on this board are the same as on [Lulu v0](../v1/README.md).
+Most components and design choices on this board are the same as on [Lulu v0](../v0/README.md).
 
 Core changes include:
 - Different MCU
