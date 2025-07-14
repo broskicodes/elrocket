@@ -1,4 +1,7 @@
-# Lulu (v1)
+# Lulu (v0)
+
+*Note*
+This version never went into production, but was the starting point for [Ion](../v1/).
 
 ## Introduction
 Lulu is a simple model rocket flight computer primarily designed to record and store flight data for analysis and testing. It also designed with the ability to deploy parachutes through pyrotechnic charges and has limited potential for implementing control systems through 3 broken out PWM pins.
